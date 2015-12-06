@@ -1,0 +1,25 @@
+.version {
+	list-style: none;
+	float: left;
+	padding: 0;
+}
+.version > li {
+	width: 150px;
+	height: 30px;
+	line-height: 30px;
+	border: 1px solid #FFF;
+	color: #fff;
+	text-align: center;
+}
+.unknow {
+	background-color: #ccc;
+}
+.unsupport {
+	background-color: #c44230;
+}
+.support {
+	background-color: #39b54a;
+}
+.clr {
+	clear: both;
+}
