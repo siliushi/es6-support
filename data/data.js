@@ -21451,49 +21451,4 @@ var sup = [{
 			}]
 		}
 	}]
-}, {
-	id: 28,
-	title: 'Built-in extensions',
-	message: 'Object static methods',
-	sub: [{}]
-}, {
-	id: 29,
-	title: 'Built-in extensions',
-	message: 'function "name" property',
-	sub: [{}]
-}, {
-	id: 30,
-	title: 'Built-in extensions',
-	message: 'String static methods',
-	sub: [{}]
-}, {
-	id: 31,
-	title: 'Built-in extensions',
-	message: 'String.prototype methods',
-	sub: [{}]
-}, {
-	id: 32,
-	title: 'Built-in extensions',
-	message: 'RegExp.prototype properties',
-	sub: [{}]
-}, {
-	id: 33,
-	title: 'Built-in extensions',
-	message: 'Array static methods',
-	sub: [{}]
-}, {
-	id: 34,
-	title: 'Built-in extensions',
-	message: 'Array.prototype methods',
-	sub: [{}]
-}, {
-	id: 35,
-	title: 'Built-in extensions',
-	message: 'Number properties',
-	sub: [{}]
-}, {
-	id: 36,
-	title: 'Built-in extensions',
-	message: 'Math methods',
-	sub: [{}]
 }]
