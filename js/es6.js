@@ -52,46 +52,6 @@ $(function() {
 					'well-known-symbols',
 					'',
 				]
-			}, {
-				title: 'Built-in extensions',
-				sub: [
-					'Object static methods',
-					'function "name" property',
-					'String static methods',
-					'String.prototype methods',
-					'RegExp.prototype properties',
-					'Array static methods',
-					'Array.prototype methods',
-					'Number properties',
-					'Math methods'
-				]
-			}, {
-				title: 'Subclassing',
-				sub: [
-					'Array is subclassable',
-					'RegExp is subclassable',
-					'Function is subclassable',
-					'Promise is subclassable',
-					'miscellaneous subclassables'
-				]
-			}, {
-				title: 'Misc',
-				sub: [
-					'prototype of bound functions',
-					'Object static methods accept primitives',
-					'own property order',
-					'miscellaneous'
-				]
-			}, {
-				title: 'Annex b',
-				sub: [
-					'non-strict function semantics',
-					'property-names-in-object-initializers',
-					'Object.prototype.__proto__',
-					'String.prototype HTML methods',
-					'RegExp.prototype.compile',
-					'RegExp syntax extensions'
-				]
 			}];
 		},
 		initUI: function() {
