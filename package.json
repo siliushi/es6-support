@@ -1,0 +1,19 @@
+{
+  "name": "es6-support",
+  "version": "1.0.0",
+  "description": "check the support of es6 in every browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baixuexiyang/es6-support.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baixuexiyang/es6-support/issues"
+  },
+  "homepage": "https://github.com/baixuexiyang/es6-support"
+}
